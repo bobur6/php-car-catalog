@@ -1,52 +1,52 @@
 # Auto Kz - My First Web Project
 
-## Описание проекта
-Это мой первый веб-проект, созданный на 1 курсе университета в рамках дисциплины "Основы веб-технологий". Простой каталог автомобилей с системой фильтрации и аутентификации пользователей.
+## Project Description
+This is my first web project created in my 1st year of university as part of the "Web Technologies Basics" course. A simple car catalog with filtering system and user authentication.
 
-## Функциональность
-- 📋 Каталог автомобилей с подробной информацией
-- 🔍 Фильтрация по брендам, странам и категориям
-- 👤 Система входа/аутентификации
-- 🌍 Многоязычный интерфейс (русский/казахский)
+## Functionality
+- 📋 Car catalog with detailed information
+- 🔍 Filtering by brands, countries, and categories
+- 👤 Login/authentication system
+- 🌍 Multilingual interface (Russian/Kazakh)
 
-## Технологии
-- **Backend**: PHP (чистый, без фреймворков)
-- **Frontend**: HTML, CSS, базовый JavaScript
-- **База данных**: Статический PHP-массив
-- **Сервер**: XAMPP (локальная разработка)
+## Technologies
+- **Backend**: PHP (pure, no frameworks)
+- **Frontend**: HTML, CSS, basic JavaScript
+- **Database**: Static PHP array
+- **Server**: XAMPP (local development)
 
-## Структура проекта
+## Project Structure
 ```
 project (auto kz)/
-├── autokz.php          # Главная страница каталога
-├── cars.php            # База данных автомобилей
-├── login.php           # Обработка входа
-├── loginPage.php       # Страница входа
-├── loginPageStyle.css  # Стили страницы входа
-├── users.php           # База данных пользователей
-└── images/             # Папка с изображениями
+├── autokz.php          # Main catalog page
+├── cars.php            # Car database
+├── login.php           # Login processing
+├── loginPage.php       # Login page
+├── loginPageStyle.css  # Login page styles
+├── users.php           # User database
+└── images/             # Images folder
 ```
 
-## Особенности
-- Первый опыт работы с PHP и веб-разработкой
-- Простая система аутентификации
-- Фильтрация через GET-параметры
-- Смешанный интерфейс на нескольких языках
+## Features
+- First experience with PHP and web development
+- Simple authentication system
+- Filtering via GET parameters
+- Mixed language interface
 
-## Как запустить
-1. Установите XAMPP или аналогичный локальный сервер
-2. Поместите папку проекта в `htdocs`
-3. Запустите Apache
-4. Откройте браузер и перейдите на `http://localhost/project/autokz.php`
+## How to Run
+1. Install XAMPP or similar local server
+2. Place project folder in `htdocs`
+3. Start Apache
+4. Open browser and go to `http://localhost/project/autokz.php`
 
-## Учетные данные для входа
+## Login Credentials
 - Email: bake17@gmail.com
-- Пароль: qwerty123
-(И другие тестовые аккаунты в users.php)
+- Password: qwerty123
+(Other test accounts in users.php)
 
-## Замечания
-Это проект первого курса, поэтому код может содержать неоптимальные решения и отсутствие современных практик безопасности. Создан для обучения основам веб-разработки.
+## Notes
+This is a first-year project, so the code may contain suboptimal solutions and lack modern security practices. Created for learning web development basics.
 
 ---
 
-*Создано в 2021 году как часть университетского курса*
+*Created in 2021 as part of university coursework*
