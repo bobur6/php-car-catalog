@@ -1,7 +1,7 @@
 # Auto Kz - My First Web Project
 
 ## Project Description
-This is my first web project created in my 1st year of university as part of the "Web Technologies Basics" course. A simple car catalog with filtering system and user authentication.
+This is my first web project created in my 1st year of university (2nd semester, 2023) as part of the "Web Technologies Basics" course. A simple car catalog with filtering system and user authentication.
 
 ## Functionality
 - 📋 Car catalog with detailed information
@@ -44,9 +44,9 @@ project (auto kz)/
 - Password: qwerty123
 (Other test accounts in users.php)
 
-## Notes
-This is a first-year project, so the code may contain suboptimal solutions and lack modern security practices. Created for learning web development basics.
+## Reflections
+This is a first-year project created while learning web development fundamentals. The code reflects my understanding at that time and contains typical beginner patterns - no password hashing, hardcoded data arrays, and mixed presentation with logic. It represents an important learning milestone in my development journey.
 
 ---
 
-*Created in 2021 as part of university coursework*
+*Created in 2023 as part of university coursework*
